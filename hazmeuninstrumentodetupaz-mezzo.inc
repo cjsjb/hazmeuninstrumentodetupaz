@@ -78,7 +78,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzosoprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzosoprano" {
 		Haz -- "me un" ins -- tru -- men -- to de tu paz,
 		don -- "de ha" -- ya o -- dio lle -- ve yo "tu a" -- mor
 		don -- "de ha" -- "ya in" -- ju -- ria tu per -- dón, Se -- ñor,
