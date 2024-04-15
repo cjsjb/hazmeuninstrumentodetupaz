@@ -4,9 +4,10 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Hazme un instrumento de tu paz"
-	instrument = "Soprano"
 	subtitle = "Oración de San Francisco de Asís"
 	tagline = "Coro Juvenil San Juan Bosco"
+	arranger = "Sebastian Temple"
+	instrument = "Soprano"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")

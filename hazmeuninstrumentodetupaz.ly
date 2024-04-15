@@ -6,6 +6,7 @@
 	title = "Hazme un instrumento de tu paz"
 	subtitle = "Oración de San Francisco de Asís"
 	tagline = "Coro Juvenil San Juan Bosco"
+	arranger = "Sebastian Temple"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
